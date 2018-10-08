@@ -1,5 +1,5 @@
-## udemy-git course
+## udemy-git and git hub course
 ### first assigment
 
-name: doaa odat
-note: goodluck
+*name: doaa odat
+*note: goodluck
